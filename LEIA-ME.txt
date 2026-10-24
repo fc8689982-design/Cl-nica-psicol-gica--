@@ -1,0 +1,24 @@
+CLÍNICA EQUILÍBRIO — SITE FUTURÍSTICO
+
+Conteúdo:
+- index.html: site responsivo com identidade visual futurística, seções institucionais, galeria, política de privacidade em janela modal e formulário para abrir o WhatsApp.
+- assets/jose-mouzinho.jpg: fotografia fornecida pelo cliente.
+- assets/jose-mouzinho-evento.jpg: recorte de fotografia da imagem enviada.
+- assets/clinica-equilibrio-divulgacao.jpg: recorte de material de divulgação da imagem enviada.
+
+Como testar:
+1. Extraia o ZIP.
+2. Mantenha a pasta assets junto do index.html.
+3. Abra index.html no navegador.
+4. Preencha o formulário e toque em “Preparar mensagem no WhatsApp”.
+5. O WhatsApp abrirá com a mensagem pronta. O paciente deve revisar e enviar.
+
+Contato configurado:
+- WhatsApp: +55 99 98518-3447
+- Instagram: @psi_cequilibrio
+
+Limitações importantes:
+- A versão é estática: não tem banco de dados, agenda sincronizada nem painel administrativo.
+- O formulário não confirma automaticamente a consulta.
+- A política de privacidade é um modelo inicial e contém campos pendentes de identificação/canal de contato do controlador. O responsável deve revisar e completar antes da publicação.
+- Confirme CRP, biografia, serviços, endereço e autorização de uso das imagens antes de publicar.
